@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing why telecom customers leave and which groups are most at risk.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Business Question
 Which customers are most likely to churn, and what can the company do about it?
